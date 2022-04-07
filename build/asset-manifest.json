@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-timer/static/css/main.cb8ff31e.css",
+    "main.js": "/React-timer/static/js/main.fd34446e.js",
+    "static/media/victory.wav": "/React-timer/static/media/victory.f1e7cce8b3fda937f318.wav",
+    "index.html": "/React-timer/index.html",
+    "main.cb8ff31e.css.map": "/React-timer/static/css/main.cb8ff31e.css.map",
+    "main.fd34446e.js.map": "/React-timer/static/js/main.fd34446e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb8ff31e.css",
+    "static/js/main.fd34446e.js"
+  ]
+}
